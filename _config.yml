@@ -2,10 +2,10 @@
 #      Main Configs       #
 # ----------------------- #
 
-url: http://yoursite.com
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
+url: http://kulesa.github.com
+title: about to grow up
+subtitle: code, hacks, and bucks
+author: Alexey Kuleshov
 simple_search: http://google.com/search
 
 # RSS / Email (optional) subscription links (change if using something like Feedburner)
@@ -69,7 +69,7 @@ delicious_user:
 delicious_count: 3
 
 # Disqus Comments
-disqus_short_name:
+disqus_short_name: kulesa
 
 # Google Analytics
-google_analytics_tracking_id:
+google_analytics_tracking_id: UA-21259258-1
